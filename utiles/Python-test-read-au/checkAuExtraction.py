@@ -7,7 +7,7 @@ Created on Mon Nov 29 22:26:59 2021
 import numpy as np
 import pandas as pd
 
-file_au='blues.00000.au'
+file_au='../Audio/blues.00000.au'
 file_c='signal.csv'
 Fe=22050
 
